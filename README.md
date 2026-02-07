@@ -1,16 +1,31 @@
-## Hi there 👋
+# Hi there 👋
 
-<!--
-**Vivek7ok/Vivek7ok** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🚀 About Me
+- Student passionate about Data Analysis and AI
+- Learning Python, SQL, and Web Development
+- Working on real-world projects
 
-Here are some ideas to get you started:
+## 🧠 Skills
+- Python
+- SQL
+- Excel
+- Power Bi
+- Data Analysis
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
+## 📊 Current Projects
+- Movie Data Analysis
+- Sales Data Analysis
+
+## 🎯 Goals
+- Improve programming skills
+- Build strong portfolio
+- Become AI Engineer
+
+## 📫 Connect With Me
+- GitHub: https://github.com/Vivek7ok
+
+---
+
+⭐ Thanks for visiting my profile!
 - ⚡ Fun fact: ...
 -->
