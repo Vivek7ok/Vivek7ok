@@ -27,5 +27,3 @@
 ---
 
 ⭐ Thanks for visiting my profile!
-- ⚡ Fun fact: ...
--->
