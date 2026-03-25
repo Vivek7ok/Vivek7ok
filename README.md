@@ -1,8 +1,7 @@
 # Hi there 👋
 
 ## 🚀 About Me
-- Student passionate about Data Analysis and AI
-- Learning Python, SQL, and Web Development
+- I am Data Analysis 
 - Working on real-world projects
 
 ## 🧠 Skills
