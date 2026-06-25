@@ -72,7 +72,3 @@ I'm also deeply into AI — not just using it, but knowing *when* and *how* to u
 </p>
 
 ---
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Vivek7ok&color=58a6ff&style=flat-square" alt="profile views"/>
-</p>
