@@ -69,7 +69,7 @@ The steps that I take when analyzing data include data cleaning, exploratory dat
   <a href="mailto:YOUR_EMAIL@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
- <a href="https://twitter.com/YOUR_TWITTER" target="_blank">
+ <a href="https://x.com/Vivekdatanalyst"_blank">
     <img src="https://img.shields.io/badge/X_(Twitter)-000000?style=for-the-badge&logo=x&logoColor=white"/>
   </a>
 </p>
