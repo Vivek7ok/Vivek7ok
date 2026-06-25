@@ -70,6 +70,6 @@ The steps that I take when analyzing data include data cleaning, exploratory dat
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
   <a href="https://x.com/Vivekdatanalyst">
-    <img src="https://www.freepnglogos.com/uploads/twitter-logo-png/twitter-msq-png-logo-10.png"/>
+    <img src=https://img.shields.io/badge/X_(Twitter)-000000?style=for-the-badge&logo=x&logoColor=white"/>
   </a>
 </p>
