@@ -47,7 +47,6 @@ The steps that I take when analyzing data include data cleaning, exploratory dat
 ![Claude](https://img.shields.io/badge/Claude-D97757?style=for-the-badge&logo=anthropic&logoColor=white)
 ![GitHub Copilot](https://img.shields.io/badge/GitHub%20Copilot-000000?style=for-the-badge&logo=github&logoColor=white)
 
-> I use AI tools daily — for faster EDA, writing cleaner code, automating reports, and accelerating every phase of the analytics workflow.
 
 ---
 
